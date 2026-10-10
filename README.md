@@ -1,4 +1,4 @@
-![Banner](banner.png)
+![Banner](banner1.png)
 <!--
 **JuanaRivasGarcia/JuanaRivasGarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
