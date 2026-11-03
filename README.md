@@ -1,15 +1,30 @@
 ![Banner](banner1.png)
-<!--
-**JuanaRivasGarcia/JuanaRivasGarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile. My name is Juana, and I'm learning full-stack development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m currently working on my own projects, putting what I’m learning into practice. They are designed for everyday life.
+
+Before I began training as a full-stack developer, I earned a bachelor's degree in Pedagogy. By combining these two areas of training with my experience as a freelancer, I write code by understanding what a person needs and turning it into something useful and clear.
+
+## 🛠️ Technologies & Tools
+
+**Languages**
+- Python
+- SQL
+
+**Databases**
+- MySQL
+- SQLite
+
+**Tools**
+- Linux
+- Git
+
+
+## 📫 Contact
+
+[LinkedIn](https://www.linkedin.com/in/juana-rivas-garcia/)
+
+[Email](mailto:rgjuana@proton.me)
+
+Thanks for visiting my profile! 😊
